@@ -1,5 +1,6 @@
 # منصة سنبلة | الأرشيف الرقمي
-![Logo](1000252169.jpg)
+<img width="1254" height="1254" alt="1000252169" src="https://github.com/user-attachments/assets/024a982b-2d71-4925-87fb-569bb17eaa2e" />
+)
 
 **"مدرسة الضمير الواقعي للفكر"**
 
